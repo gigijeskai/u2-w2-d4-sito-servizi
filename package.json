@@ -4,7 +4,8 @@
   "description": "'creazione di un sito di servizi'",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass" : "sass assets/scss/style.scss assets/css/style.css --no-source-map -w" 
   },
   "author": "",
   "license": "ISC",
