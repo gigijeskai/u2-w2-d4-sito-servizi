@@ -1,9 +1,9 @@
 @import "./variabili";
-
+@import "./mixin";
 
 
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
-// h1 {
-//     @include marginBottom
-// }
+h1 {
+    @include marginBottom
+}
